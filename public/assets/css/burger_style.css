@@ -1,5 +1,5 @@
 body {
-  background-color: #f4c242;
+  background-color: #F8F9F9;
     background-image: url("/assets/img/burger.jpg");
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -9,8 +9,8 @@ img {
   width: 15%;
 }
 
-.red_font {
-  color: #bc001f;
+.white_font {
+  color: #FBFCFC;
 }
 
 .tiny_text {
@@ -18,5 +18,7 @@ img {
   color: #5da82f;
 }
 
-
+.yellow_font {
+  color: #FFFF00;
+}
 

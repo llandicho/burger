@@ -12,7 +12,7 @@ else {
   connection = mysql.createConnection({
     host     : 'localhost',
     user     : 'root',
-    password : '', // Add your password
+    password : '', 
     database : 'burgers_db' // Add your database
   });
 }
