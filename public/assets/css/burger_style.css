@@ -1,5 +1,8 @@
 body {
-  background-color: #FF5733;
+  background-color: #f4c242;
+    background-image: url("/assets/img/burger.jpg");
+    background-repeat: no-repeat;
+    margin: 0 auto;
 }
 
 img {
@@ -14,3 +17,6 @@ img {
   font-size: 11px;
   color: #5da82f;
 }
+
+
+
