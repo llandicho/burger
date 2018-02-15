@@ -21,10 +21,9 @@ Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I
 
 
 <b>Technologies Used:</b>
-- nodeJS
+- Node.JS
 - Javascript
 - Express
-- Node.JS
 - MySQL
 - Handlebars
 - HTML
@@ -39,7 +38,7 @@ Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I
 <b>Built With:</b>
 - Sublime Text - Text Editor
 - Materialize - CSS Framework based on Material Design
-- MySql Workbench
+- MySQL Workbench
 
 <b>Acknowledgments:</b>
 - UC Berkeley Coding Boot Camp Staff
