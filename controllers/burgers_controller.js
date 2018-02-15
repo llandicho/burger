@@ -1,3 +1,5 @@
+
+
 // Node Dependencies
 var express = require('express');
 var router = express.Router();
@@ -5,7 +7,7 @@ var burger = require('../models/burger.js');
 
 
 // Create routes
-// ----------------------------------------------------
+
 // Index Redirect
 router.get('/', function (req, res) {
   res.redirect('/index');
@@ -36,7 +38,7 @@ router.post('/burger/eat/:id', function (req, res) {
     res.redirect('/index');
   });
 });
-// ----------------------------------------------------
+
 
 
 // Export routes
