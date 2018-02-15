@@ -42,3 +42,5 @@ Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I
 
 <b>Acknowledgments:</b>
 - UC Berkeley Coding Boot Camp Staff
+
+<img src="https://github.com/llandicho/burger/blob/master/public/assets/img/burger-screenshot.jpg">
