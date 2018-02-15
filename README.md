@@ -9,7 +9,7 @@ Eat The Burger - MySQL, Node, Express, Handlebars and ORM
 Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). It uses the MVC design pattern, Node and MySQL to query and route data to the app and Handlebars to generate the HTML.
 
 
-<b>Burger is deployed to Heroku:</b> 
+<b>Burger is deployed to Heroku:</b> https://sleepy-cliffs-15726.herokuapp.com
 
 
 <b>NPM Packages:</b>
