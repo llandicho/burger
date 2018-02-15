@@ -7,7 +7,7 @@
       <h3 class="yellow_font">Mmooore Burger!</h3>
       <div id="ready_to_eat">
 
-        <!-- Dynamically Insert Ready Burgers Here -->
+        <!-- Dynamically Insert Mmooore Burgers Here -->
         {{#each burgers}}
           {{#unless devoured}}
           <form action="burger/eat/{{id}}" method="POST">
@@ -29,7 +29,7 @@
       <h3 class="yellow_font">Happy Tummy!</h3>
       <div id="already_eaten">
 
-        <!-- Dynamically Insert Eaten Burgers Here -->
+        <!-- Dynamically Insert Happy Tummy Here -->
         {{#each burgers}}
           {{#if this.devoured}}
             <div class="input-group">
